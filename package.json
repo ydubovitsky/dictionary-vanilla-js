@@ -1,0 +1,16 @@
+{
+  "name": "dictionary-vanilla",
+  "version": "1.0.0",
+  "description": "Dictionary on vanilla js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dictionary",
+    "js",
+    "vanilla"
+  ],
+  "author": "y.dubovitsky@gmail.com",
+  "license": "ISC"
+}
